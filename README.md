@@ -26,5 +26,5 @@ Come and learn about reinforcement learning, Vowpal Wabbit, and applying context
 - [VW on Spark](https://github.com/VowpalWabbit/neurips2019/blob/master/VW_on_Spark.pdf)
 
 ## Resources
-- https://vowpalwabbit.org
+- [https://vowpalwabbit.org](https://vowpalwabbit.org)
 - [Classification notebook](https://mybinder.org/v2/gh/VowpalWabbit/jupyter-notebooks/master?filepath=VW%20classification%20tutorial.ipynb)
