@@ -19,6 +19,10 @@ Come and learn about reinforcement learning, Vowpal Wabbit, and applying context
 - VW + Python
 - VW + Python + Contextual Bandits 
 
+## Slides
+- [Introduction](https://github.com/VowpalWabbit/neurips2019/blob/master/intro.pdf)
+- [Personalizer](https://github.com/VowpalWabbit/neurips2019/blob/master/personalizer.pdf)
+
 ## Resources
 - https://vowpalwabbit.org
 - [Classification notebook](https://mybinder.org/v2/gh/VowpalWabbit/jupyter-notebooks/master?filepath=VW%20classification%20tutorial.ipynb)
