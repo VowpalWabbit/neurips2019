@@ -27,5 +27,5 @@ Come and learn about reinforcement learning, Vowpal Wabbit, and applying context
 
 ## Resources
 - [https://vowpalwabbit.org](https://vowpalwabbit.org)
-- [Classification notebook](https://mybinder.org/v2/gh/VowpalWabbit/jupyter-notebooks/master?filepath=VW%20classification%20tutorial.ipynb)](
+- [Classification notebook](https://mybinder.org/v2/gh/VowpalWabbit/jupyter-notebooks/master?filepath=VW%20classification%20tutorial.ipynb)
 - [Content personalization tutorial](https://vowpalwabbit.org/tutorials/cb_simulation.html) [(Jupyter notebook)](https://mybinder.org/v2/gh/VowpalWabbit/jupyter-notebooks/master?filepath=Simulating_a_news_personalization_scenario_using_Contextual_Bandits.ipynb)
